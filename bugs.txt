@@ -1,0 +1,2 @@
+CSS
+- home.php, login wrap die zichtbaar wordt als je op 'login' klikt staat slecht gepositioneerd als je op een scherm zit met een breedte van meer dan 1500px.
