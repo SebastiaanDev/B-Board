@@ -5,3 +5,4 @@ PHP
 - admin.php, de self-destruct-tijd wordt nog niet goed ingevuld in de database.
 - countdown.php, zorgen dat mensen geen code kunnen toevoegen aan de database via een titel van de counter.
 - login.php, na het maken van een nieuw account moet je nog inloggen voordat je verder kunt.
+- countdown.php, bij de favoriete countdowns heb je soms dat het nog 1 dag duurt maar al wel 100% is.
