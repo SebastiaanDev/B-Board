@@ -6,5 +6,6 @@ PHP
 - countdown.php, zorgen dat mensen geen code kunnen toevoegen aan de database via een titel van de counter.
 - login.php, na het maken van een nieuw account moet je nog inloggen voordat je verder kunt.
 - countdown.php, bij de favoriete countdowns heb je soms dat het nog 1 dag duurt maar al wel 100% is.
+- new_account.php, de verificatiemail wordt niet verstuurd om een onbekende reden.
 JS
 - home.php, de grootte en kleur wordt perongeluk ook van de P van de footer aangepast en dus niet alleen de P van countdown.php 
