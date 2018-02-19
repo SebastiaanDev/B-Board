@@ -3,4 +3,3 @@ CSS
 PHP
 - home.php, na een error is het hele form weer leeg, dit is ongebruiksvriendelijk.
 - admin.php, de self-destruct-tijd wordt nog niet goed ingevuld in de database.
-- login.php, na het maken van een nieuw account moet je nog inloggen voordat je verder kunt.
