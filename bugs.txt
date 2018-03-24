@@ -3,3 +3,4 @@ CSS
 PHP
 - home.php, na een error is het hele form weer leeg, dit is ongebruiksvriendelijk.
 - admin.php, de self-destruct-tijd wordt nog niet goed ingevuld in de database.
+- rooster.php, als het zaterdag of zondag is en je klikt op het pijltje naar rechts dan krijg je niet het rooster over twee weken maar nog steeds het rooster van de eerst volgende week
