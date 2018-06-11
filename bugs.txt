@@ -7,4 +7,4 @@ PHP
 - setup.php --> mensen vragen om koppelcode van zermelo en deze omzetten tot een hash
 - rooster.php --> als de gebruiker het rooster van de volgende week op wil vragen, rooster uur en rooster dag indicatoren onschadelijk maken.
 - settings.php --> als je je gegevens aanpast dan wordt je uitgelogd en als je dan weer probeert in te loggen krijg je de melding dat je een fout wachtwoord heb ingevuld
-- niet ingelogd.php --> je krijgt een melding dat je opnieuw moet inloggen nadat je de internetapp hebt gesloten op mobile, als je dan opnieuw wilt inloggen hoeft dat niet en ga je toch meteen naar het dashboard
+
